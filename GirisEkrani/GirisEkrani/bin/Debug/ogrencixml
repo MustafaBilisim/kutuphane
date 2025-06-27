@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <Kimlik>1</Kimlik>
+    <adi>Suç ve Ceza</adi>
+    <yazar>Dostayevski</yazar>
+    <tur>roman</tur>
+    <sayfa>250</sayfa>
+    <konum>3. Raf</konum>
+    <eklenmeTarihi>2025-04-11T00:00:00+03:00</eklenmeTarihi>
+  </Table>
+</NewDataSet>

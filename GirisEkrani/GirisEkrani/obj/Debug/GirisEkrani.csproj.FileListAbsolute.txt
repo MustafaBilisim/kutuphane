@@ -1,0 +1,12 @@
+C:\Users\Mustafa\source\repos\GirisEkrani\GirisEkrani\bin\Debug\GirisEkrani.exe.config
+C:\Users\Mustafa\source\repos\GirisEkrani\GirisEkrani\bin\Debug\GirisEkrani.exe
+C:\Users\Mustafa\source\repos\GirisEkrani\GirisEkrani\bin\Debug\GirisEkrani.pdb
+C:\Users\Mustafa\source\repos\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.exe
+C:\Users\Mustafa\source\repos\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.pdb
+C:\Users\Mustafa\source\repos\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.Form1.resources
+C:\Users\Mustafa\source\repos\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.Form2.resources
+C:\Users\Mustafa\source\repos\GirisEkrani\GirisEkrani\obj\Debug\GirisEkrani.KitapEkle.resources
